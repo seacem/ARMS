@@ -1,0 +1,13 @@
+Download Openevsys 1.0 
+   https://launchpad.net/openevsys/
+
+Download Openevsys config file
+   https://github.com/downloads/seacem/ARMS/sysconf.php
+   
+   Copy to "conf" folder under your Openevsys
+   Replace the host, database, username and password
+
+Download the custom database for Openevsys
+   https://github.com/downloads/seacem/ARMS/oesdb.rar
+
+   Restore database with MySQL Administrator
